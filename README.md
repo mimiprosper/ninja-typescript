@@ -1,1 +1,1 @@
-# ninja-typescript tutorals
+# ninja-typescript tutorials
